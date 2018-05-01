@@ -1,0 +1,20 @@
+<xpml><page quantity='0' pitch='15.0 mm'></xpml>SIZE 60 mm, 15 mm
+GAP 3 mm, 0 mm
+SPEED 3
+DENSITY 15
+SET RIBBON ON
+DIRECTION 0,0
+REFERENCE 0,0
+OFFSET 0 mm
+SET PEEL OFF
+SET CUTTER OFF
+SET PARTIAL_CUTTER OFF
+<xpml></page></xpml><xpml><page quantity='1' pitch='15.0 mm'></xpml>SET TEAR ON
+CLS
+BARCODE 464,86,"128",46,0,180,1,2,"AA:B2:C3:D4:E5:F6"
+CODEPAGE 1252
+TEXT 448,34,"ROMAN.TTF",180,1,8,"AA:B2:C3:D4:E5:F6"
+BARCODE 224,86,"128",46,0,180,1,2,"AA:B2:C3:D4:E5:F6"
+TEXT 208,34,"ROMAN.TTF",180,1,8,"AA:B2:C3:D4:E5:F6"
+PRINT 1,1
+<xpml></page></xpml><xpml><end/></xpml>

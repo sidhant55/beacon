@@ -1,0 +1,1 @@
+copy C:\Users\Distronix\xProject\dumy.txt \\DISTRONIX-HP\TSCP200
